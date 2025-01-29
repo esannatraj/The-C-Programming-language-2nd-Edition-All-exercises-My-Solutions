@@ -1,4 +1,3 @@
-```markdown
 # The C Programming Language (2nd Edition) - My Solutions
 
 This repository contains my solutions to all exercises from **The C Programming Language (2nd Edition)** by Brian W. Kernighan and Dennis M. Ritchie.
@@ -11,7 +10,7 @@ Each chapter has its own directory, with files named according to the exercise n
 
 ## 🚀 How to Run
 Compile and run any solution using a C compiler like `gcc`:
-```sh
+```
 gcc -o ex1-1 Chapter_1/ex1-1.c
 ./ex1-1
 ```
