@@ -22,7 +22,3 @@ gcc -o ex1-1 Chapter_1/ex1-1.c
 ## 🛠 Tools Used
 - Compiler: `gcc`
 - OS: Linux / macOS / Windows (with MinGW or WSL)
-
-## 📜 License
-This project is open-source and available under the MIT License.
-```
